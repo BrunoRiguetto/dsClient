@@ -1,13 +1,13 @@
-package com.devsuperior.dsclient;
+//package com.devsuperior.dsclient;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
+//import org.junit.jupiter.api.Test;
+//import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class DsclientApplicationTests {
+//@SpringBootTest
+//class DsclientApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+//	@Test
+//	void contextLoads() {
+//	}
 
-}
+//}
